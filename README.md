@@ -11,6 +11,6 @@ A aplicação encontra-se [neste link](https://cubo-back-ruana.herokuapp.com) e 
 
 ## Front end
 
-O front end foi desenvolvido em ReactJS, com uso das bibliotecas Axios e Styled-components.
+O front end foi desenvolvido em ReactJS, com uso das bibliotecas Axios, React-Google-Chart e Styled-components.
 O Cubo pode ser acessado [neste link](cubo-ruana.surge.sh).
 
